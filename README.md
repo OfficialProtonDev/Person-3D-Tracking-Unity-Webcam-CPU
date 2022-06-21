@@ -7,7 +7,11 @@ Requirements:
  
  What it is:
  -  This is a machine learning project that detects a persons joints in 3d space using only a single camera and sends the positions to unity to display in a 3d simulation
- 
+
+ Demo:
+
+https://user-images.githubusercontent.com/98558514/174703832-1d3f58a3-610f-4eb9-9d4f-cc509d1f4234.mp4
+
  Installation Instructions:
  
  - Download this repository.
