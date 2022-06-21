@@ -14,7 +14,7 @@ Requirements:
  - Make sure you have Python 3.8 installed
  - Open cmd and cd into this repository.
  - Install required packages by running ``` pip install -r requirements.txt ```
- - Download Iriun Client on your PC and the Iriun app on your phone (if using a webcam ignore this)
+ - Download Iriun on your PC and the Iriun app on your phone (if using a webcam ignore this)
 
  Customizable Settings:
  ```
@@ -26,5 +26,5 @@ Requirements:
  How to use:
  
  - Open cmd and cd into this repository.
- - Run the command ``` python tracking.py ``` to start the program, make sure you have Iriun Client open and are connected to your phone via Wi-Fi or USB, while the Iriun app is open (if using a webcam ignore this)
+ - Run the command ``` python tracking.py ``` to start the program, make sure you have Iriun open on your PC + phone and are connected to the same Wi-FI network as your phone (if using a webcam ignore this)
  - Import the .unitypackage into a new unity project and open the tracking scene and press run. Make sure the webcam is pointed at you and you should see a series of connected joints matching your joints movements.
