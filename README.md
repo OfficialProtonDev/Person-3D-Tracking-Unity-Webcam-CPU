@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/98558514/174703832-1d3f58a3-610f-4eb9-
  ```
  visuals = True  # This will toggle the visiblity of the camera feed
 
- IN = 1  # This will toggle the webcam source (0 = normal webcam, 1 = smartphone DroidCam webcam)
+ IN = 1  # This will toggle the webcam source (0 = normal webcam, 1 = smartphone Iriun webcam)
  ```
 
  How to use:
