@@ -30,5 +30,5 @@ https://user-images.githubusercontent.com/98558514/174703832-1d3f58a3-610f-4eb9-
  How to use:
  
  - Open cmd and cd into this repository.
- - Run the command ``` python person_tracking.py ``` to start the program, make sure you have Iriun open on your PC + phone and are connected to the same Wi-FI network as your phone (if using a webcam ignore this)
- - Import the .unitypackage into a new unity project and open the tracking scene and press run. Make sure the webcam is pointed at you and you should see a series of connected joints matching your joints movements.
+ - Run the command ``` python person_tracking.py ``` for person detection or ``` python hand_tracking.py ``` for hand tracking, make sure you have Iriun open on your PC + phone and are connected to the same Wi-FI network as your phone (if using a webcam ignore this)
+ - Import the .unitypackage into a new unity project and open the person / hand tracking scene and press run. Make sure the webcam is pointed at you and you should see a series of connected joints matching your joints movements.
